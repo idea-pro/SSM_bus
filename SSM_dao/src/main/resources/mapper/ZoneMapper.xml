@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.firework.dao.ZoneMapper">
+
+    <!-- 根据片区名称查询指定/全部片区信息列表 -->
+    <select id="selectList" parameterType="zone" resultType="zone">
+        SELECT id, name, manager, email, telephone, introducation
+        FROM tb_zone
+        <where>
+            <if test="name!=null and name!=''">
+                AND name LIKE concat(concat('%',#{name}),'%')
+            </if>
+        </where>
+    </select>
+
+    <!-- 查询所有片区列表信息(用于在线路管理页面中获取片区信息) -->
+    <select id="selectAll" resultType="zone">
+        SELECT id, name, manager, email, telephone, introducation
+        FROM tb_zone
+    </select>
+
+    <!-- 根据片区名称查询指定片区信息 -->
+    <select id="findByName" parameterType="String" resultType="zone">
+        SELECT id, name, manager, email, telephone, introducation
+        FROM tb_zone
+        WHERE name = #{name}
+    </select>
+
+    <!-- 添加片区信息 -->
+    <insert id="insert" parameterType="zone">
+        INSERT INTO tb_zone(name, manager, email, telephone, introducation)
+        VALUES (#{name}, #{manager}, #{email}, #{telephone}, #{introducation})
+    </insert>
+
+    <!-- 根据id更新指定片区信息 -->
+    <update id="update" parameterType="zone">
+        UPDATE tb_zone
+        SET name=#{name},
+            manager=#{manager},
+            email=#{email},
+            telephone=#{telephone},
+            introducation=#{introducation}
+        WHERE id = #{id}
+    </update>
+
+    <!-- 根据id批量删除指定的片区信息 -->
+    <delete id="deleteById">
+        DELETE FROM tb_zone WHERE id IN
+        <foreach collection="array" item="ids" open="(" separator="," close=")">
+            #{ids}
+        </foreach>
+    </delete>
+
+</mapper>
