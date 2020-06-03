@@ -24,7 +24,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="" />
+    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/README_IMG/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_IMG/7.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +227,7 @@
       <workItem from="1590972167594" duration="5328000" />
       <workItem from="1590977816327" duration="3425000" />
       <workItem from="1590992290397" duration="1848000" />
-      <workItem from="1591151090237" duration="4531000" />
+      <workItem from="1591151090237" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="基于SSM框架创建的maven子父工程">
       <created>1590891083611</created>
@@ -312,7 +320,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591156134618</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="README.md所需图片文件">
+      <created>1591156622949</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591156622949</updated>
+    </task>
+    <task id="LOCAL-00015" summary="基于SSM框架创建的maven子父工程">
+      <created>1591156654456</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591156654456</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +381,7 @@
     <MESSAGE value="无" />
     <MESSAGE value="README.md文件所需的图片文件" />
     <MESSAGE value="README.md所需的图片文件" />
+    <MESSAGE value="README.md所需图片文件" />
     <MESSAGE value="基于SSM框架创建的maven子父工程" />
     <option name="LAST_COMMIT_MESSAGE" value="基于SSM框架创建的maven子父工程" />
   </component>
@@ -371,10 +394,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590144742212" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1591156132752">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1591156652639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591156132752" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591156652639" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590980951151">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -435,18 +458,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590842189739" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591156246840">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591156686035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591156246840" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591156686035" />
     <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591155902704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1591155902704" />
-    <state x="342" y="128" key="git4idea.merge.GitPullDialog" timestamp="1591156236135">
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog" timestamp="1591156660891">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="342" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591156236135" />
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591156660891" />
     <state x="183" y="1" key="new project wizard" timestamp="1589891693207">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
