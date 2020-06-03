@@ -14,4 +14,4 @@ maven  | 3.6.0
 
 **相关技术栈简介**：SSM框架（spring、springMVC、mybatis）,mybatis分页插件,EL表达式，linux远程部署，git版本控制；前端框架采用JQuery EasyUI和基于Bootstrap框架的H-UI，发送Ajax请求；  
 ## 三.项目架构说明
-  ![Image text]()
+ ![add image]()
