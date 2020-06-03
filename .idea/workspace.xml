@@ -24,10 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SSM_web/src/main/java/com/firework/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SSM_web/src/main/java/com/firework/controller/AdminController.java" afterDir="false" />
-    </list>
+    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringMVC_start" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/readme_image" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,11 +98,11 @@
       <recent name="com.firework.util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_projects\SSM_bus\readme_image" />
       <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\webapp" />
       <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\webapp\WEB-INF" />
       <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\resources\spring-conf" />
       <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\java\com\firework\controller" />
-      <recent name="D:\java_projects\SSM_bus\SSM_service\src\main\resources\spring-conf" />
     </key>
   </component>
   <component name="RunManager">
@@ -222,7 +219,7 @@
       <workItem from="1590972167594" duration="5328000" />
       <workItem from="1590977816327" duration="3425000" />
       <workItem from="1590992290397" duration="1848000" />
-      <workItem from="1591151090237" duration="2898000" />
+      <workItem from="1591151090237" duration="3216000" />
     </task>
     <task id="LOCAL-00001" summary="基于SSM框架创建的maven子父工程">
       <created>1590891083611</created>
@@ -238,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590893406977</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155057499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155057499</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,14 +298,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590144742212" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1590893405237">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1591155331339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590893405237" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591155331339" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590980951151">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590980951151" />
+    <state x="514" y="238" width="252" height="296" key="Github.ShareDialog" timestamp="1591155078865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="514" y="238" width="252" height="296" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1591155078865" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590750976173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -354,14 +362,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590842189739" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590893423974">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591155177153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590893423974" />
-    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590891122763">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591155177153" />
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591155341299">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1590891122763" />
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1591155341299" />
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog" timestamp="1591155158363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591155158363" />
     <state x="183" y="1" key="new project wizard" timestamp="1589891693207">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
