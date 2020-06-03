@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSM_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\localRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="13" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1c7ZJ0dvnSX1LrZRuEbIC4K4kin" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/README_IMG" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.firework.interceptor" />
+      <recent name="com.firework.bean" />
+      <recent name="com.firework.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_projects\SSM_bus\README_IMG" />
+      <recent name="D:\java_projects\SSM_bus\README_image" />
+      <recent name="D:\java_projects\SSM_bus\readme_image" />
+      <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\webapp" />
+      <recent name="D:\java_projects\SSM_bus\SSM_web\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SSM_web_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSM_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SSM_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_SSM_bus" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52418" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSM_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="" />
+      <created>1589881516902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589881516902</updated>
+      <workItem from="1589881520092" duration="266000" />
+      <workItem from="1589891293294" duration="2777000" />
+      <workItem from="1589894103043" duration="293000" />
+      <workItem from="1590132574839" duration="13194000" />
+      <workItem from="1590151831149" duration="1555000" />
+      <workItem from="1590310252743" duration="491000" />
+      <workItem from="1590394095315" duration="668000" />
+      <workItem from="1590558353525" duration="315000" />
+      <workItem from="1590564834579" duration="3027000" />
+      <workItem from="1590572555234" duration="479000" />
+      <workItem from="1590576070030" duration="1268000" />
+      <workItem from="1590589361606" duration="1252000" />
+      <workItem from="1590644155482" duration="1226000" />
+      <workItem from="1590651862069" duration="34000" />
+      <workItem from="1590652435109" duration="25000" />
+      <workItem from="1590715869121" duration="1517000" />
+      <workItem from="1590718009960" duration="906000" />
+      <workItem from="1590724217400" duration="5000" />
+      <workItem from="1590746395917" duration="303000" />
+      <workItem from="1590748346800" duration="2614000" />
+      <workItem from="1590752265775" duration="182000" />
+      <workItem from="1590752524361" duration="779000" />
+      <workItem from="1590761790753" duration="247000" />
+      <workItem from="1590840744274" duration="34000" />
+      <workItem from="1590841021047" duration="1549000" />
+      <workItem from="1590928596941" duration="6556000" />
+      <workItem from="1590972167594" duration="5328000" />
+      <workItem from="1590977816327" duration="3425000" />
+      <workItem from="1590992290397" duration="1848000" />
+      <workItem from="1591151090237" duration="4190000" />
+    </task>
+    <task id="LOCAL-00001" summary="基于SSM框架创建的maven子父工程">
+      <created>1590891083611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590891083611</updated>
+    </task>
+    <task id="LOCAL-00002" summary="基于SSM框架创建的maven子父工程">
+      <created>1590893406977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590893406977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155057499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155057499</updated>
+    </task>
+    <task id="LOCAL-00004" summary="无">
+      <created>1591155368530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155368530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="无">
+      <created>1591155392345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155392345</updated>
+    </task>
+    <task id="LOCAL-00006" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155554765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155554765</updated>
+    </task>
+    <task id="LOCAL-00007" summary="README.md文件所需的图片文件">
+      <created>1591155608942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155608942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155694674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155694674</updated>
+    </task>
+    <task id="LOCAL-00009" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155785790</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155785790</updated>
+    </task>
+    <task id="LOCAL-00010" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155836778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155836778</updated>
+    </task>
+    <task id="LOCAL-00011" summary="基于SSM框架创建的maven子父工程">
+      <created>1591155931487</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591155931487</updated>
+    </task>
+    <task id="LOCAL-00012" summary="README.md所需的图片文件">
+      <created>1591156084744</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591156084744</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="无" />
+    <MESSAGE value="README.md文件所需的图片文件" />
+    <MESSAGE value="基于SSM框架创建的maven子父工程" />
+    <MESSAGE value="README.md所需的图片文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md所需的图片文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590645031515">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590645031515" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590144742212">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590144742212" />
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1591155929753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591155929753" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590980951151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590980951151" />
+    <state x="514" y="238" width="252" height="296" key="Github.ShareDialog" timestamp="1591155078865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="514" y="238" width="252" height="296" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1591155078865" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590750976173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590750976173" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1590750976173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590750976173" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1590750976173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590750976173" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1590750976173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590750976173" />
+    <state width="845" height="314" key="GridCell.Tab.1.bottom" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.1.center" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.1.left" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.1.right" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.2.bottom" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.2.center" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.2.left" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state width="845" height="314" key="GridCell.Tab.2.right" timestamp="1590750976163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="314" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1590750976163" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1590842189739">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590842189739" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591155956575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591155956575" />
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591155902704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1591155902704" />
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog" timestamp="1591155937428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="128" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591155937428" />
+    <state x="183" y="1" key="new project wizard" timestamp="1589891693207">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="183" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589891693207" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1590981530905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590981530905" />
+  </component>
+</project>
