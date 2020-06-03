@@ -5,8 +5,29 @@
       <artifact name="SSM_web:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="" />
+    <list default="true" id="079bc1d1-5be7-448a-b94e-749d1fc1b9ba" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SSM_web/src/main/java/com/firework/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SSM_web/src/main/java/com/firework/controller/AdminController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +41,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -58,7 +85,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringMVC_start" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -191,6 +218,11 @@
       <workItem from="1590761790753" duration="247000" />
       <workItem from="1590840744274" duration="34000" />
       <workItem from="1590841021047" duration="1549000" />
+      <workItem from="1590928596941" duration="6556000" />
+      <workItem from="1590972167594" duration="5328000" />
+      <workItem from="1590977816327" duration="3425000" />
+      <workItem from="1590992290397" duration="1848000" />
+      <workItem from="1591151090237" duration="2898000" />
     </task>
     <task id="LOCAL-00001" summary="基于SSM框架创建的maven子父工程">
       <created>1590891083611</created>
@@ -199,11 +231,55 @@
       <option name="project" value="LOCAL" />
       <updated>1590891083611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基于SSM框架创建的maven子父工程">
+      <created>1590893406977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590893406977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基于SSM框架创建的maven子父工程" />
@@ -218,14 +294,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590144742212" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1590891176392">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1590893405237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590891176392" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590842220314">
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590893405237" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590980951151">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590842220314" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590980951151" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1590750976173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -278,6 +354,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590842189739" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590893423974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590893423974" />
     <state x="438" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590891122763">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -286,9 +366,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="183" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589891693207" />
-    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1590589651727">
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1590981530905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590589651727" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590981530905" />
   </component>
 </project>

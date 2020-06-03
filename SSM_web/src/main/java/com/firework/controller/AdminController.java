@@ -139,7 +139,7 @@ public class AdminController {
     @PostMapping("/uploadPhoto")
     @ResponseBody
     public Map<String, Object> uploadPhoto(MultipartFile photo, HttpServletRequest request) {
-        //存储头像的本地目录
+        //存储头像的目标目录
         final String dirPath = request.getServletContext().getRealPath("/upload/admin_portrait");
         //存储头像的项目发布目录
         final String portraitPath = request.getServletContext().getContextPath() + "/upload/admin_portrait";
