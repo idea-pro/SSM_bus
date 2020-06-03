@@ -12,7 +12,7 @@ MySQL  | 8.0.20
 tomcat  | 7.0.76
 maven  | 3.6.0  
 
-**相关技术栈简介**：SSM框架（spring、springMVC、mybatis）,mybatis分页插件,EL表达式，JSTL，linux远程部署，git版本控制；前端框架采用JQuery EasyUI和基于Bootstrap框架的H-UI，使用JSON表达，发送Ajax请求；  
+**相关技术栈简介**：SSM框架（spring、springMVC、mybatis），mybatis分页插件，EL表达式，JSTL，linux远程部署，git版本控制；前端框架采用JQuery EasyUI和基于Bootstrap框架的H-UI，使用JSON表达，发送Ajax请求；  
 ## 三.项目架构说明
 项目架构  
 1. **SSM_bean** : 数据库对象实体  
