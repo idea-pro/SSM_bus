@@ -14,7 +14,7 @@ maven  | 3.6.0
 
 **相关技术栈简介**：SSM框架（spring、springMVC、mybatis），mybatis分页插件，EL表达式，JSTL，linux远程部署，git版本控制；前端框架采用JQuery EasyUI和基于Bootstrap框架的H-UI，使用JSON表达，发送Ajax请求；  
 ## 三.项目架构说明
-项目架构  
+**项目架构:**   
 1. **SSM_bean** : 数据库对象实体
 
 2. **SSM_dao** : 数据访问层代码 
@@ -33,6 +33,11 @@ maven  | 3.6.0
    * \webapp\image : 存放用户的初始头像
    * \webapp\static ： 静态资源文件夹，存放前端页面代码
    * \webapp\WEB-INF\view ： jsp动态页面（数据交互界面代码）
+   
+**模块依赖关系：**  
+       SSM_util  
+       SSM_bean         --> SSM_dao --> SSM_service --> SSM_web  
+SSM_interceptor
 ## 四.功能细节说明
 1.为防止用户在未登录的情况下直接进入系统内部，设置了**拦截器组件**，在执行Controller层方法之前都会先对用户的登录状态进行验证。   
 2.登录注册界面使用验证码，通过时间戳清空缓冲区，实现**点击图片更换验证码。**  
